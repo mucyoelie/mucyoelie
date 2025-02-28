@@ -1,12 +1,17 @@
-- 👋 Hi, I’m Elie Joseph MUCYO
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there! 👋 I'm Elie Joseph Mucyo
 
-<!---
-mucyoelie/mucyoelie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Full Stack Software Engineer** | 🌍 **Web & Mobile Developer** | 🔬 **IoT & Embedded Systems Enthusiast**  
+
+- 💻 I specialize in **React, Node.js, Express.js, MongoDB, Python**  
+- 🎨 Passionate about **responsive design & UI/UX**  
+- 🔧 Currently working on **QuizMaster & Wallet Web Application**  
+- 📫 Reach me at: [nziranziza.dev](https://nziranziza.dev/)  
+
+### 🛠 Tech Stack  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+
+### 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngenahimana&show_icons=true&theme=radical)  
