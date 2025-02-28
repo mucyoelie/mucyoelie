@@ -5,7 +5,7 @@
 - 💻 I specialize in **React, Node.js, Express.js, MongoDB, Python**  
 - 🎨 Passionate about **responsive design & UI/UX**  
 - 🔧 Currently working on **QuizMaster & Wallet Web Application**  
-- 📫 Reach me at: [nziranziza.dev](https://nziranziza.dev/)  
+- 📫 Reach me at: [mucyoelie.neflify.app](https://mucyoelie.netlify.app/)  
 
 ### 🛠 Tech Stack  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
