@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Software Engineer** | 🌍 **Web & Mobile Developer** | 🔬 **IoT & Embedded Systems Enthusiast**  
 
-- 💻 I specialize in **React, Node.js, Express.js, MongoDB, Python**  
+- 💻 I specialize in **JavaScript,TypeScript,React.js,Tailwind CSS, Node.js,Nest.js Express.js, MongoDB, Postgress**  
 - 🎨 Passionate about **responsive design & UI/UX**  
 - 🔧 Currently working on **QuizMaster & Wallet Web Application**  
 - 📫 Reach me at: [mucyoelie.neflify.app](https://mucyoelie.netlify.app/)  
