@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Elie Joseph Mucyo
 
-🚀 **Full Stack Software Engineer** | 🌍 **Web & Mobile Developer** | 🔬 **IoT & Embedded Systems Enthusiast**  
+🚀 **Full Stack Software Engineer** | 🌍 **Web & Mobile Developer**   
 
 - 💻 I specialize in **JavaScript,TypeScript,React.js,Tailwind CSS, Node.js,Nest.js Express.js, MongoDB, Postgress**  
 - 🎨 Passionate about **responsive design & UI/UX**  
