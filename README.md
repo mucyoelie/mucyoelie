@@ -5,7 +5,7 @@
 - 💻 I specialize in **JavaScript,TypeScript,React.js,Tailwind CSS, Node.js,Nest.js Express.js, MongoDB, Postgress**  
 - 🎨 Passionate about **responsive design & UI/UX**  
 - 🔧 Currently working on **QuizMaster & Wallet Web Application**  
-- 📫 Reach me at: [mucyoelie.neflify.app](https://mucyodev.netlify.app/)
+- 📫 Reach me at: [portfolio](https://mucyodev.netlify.app/)
 - 🚀 Codewars: [codewars.com/users/eliemucyo](https://www.codewars.com/users/eliemucyo)
 
 ### 🛠 Tech Stack  
